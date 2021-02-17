@@ -238,6 +238,11 @@ p {
     }
 }
 @media only screen and (max-width: 800px){
+
+    .footer {
+        height: 100px !important;
+
+    }
     .ai {
             
         float: none !important;
@@ -247,8 +252,9 @@ p {
         margin-right: 30% !important;
         margin-left: 15% !important;
         margin-top: 7px !important;
+        margin-bottom: 1px !important;
         
-        }
+        
     }
 
     .port {
@@ -260,6 +266,7 @@ p {
         margin-right: 30% !important;
         margin-left: 15% !important;
         margin-top: 5px !important;
+        padding-top: 1px !important;
         
         }
     }
